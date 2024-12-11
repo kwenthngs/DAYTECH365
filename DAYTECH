@@ -1,0 +1,7 @@
+git clone https://github.com/your-username/DayTech365.git
+cd DayTech365
+touch app.js
+console.log("Welcome to DayTech365!");
+git add app.js
+git commit -m "Add app.js with a welcome message"
+git push origin main
